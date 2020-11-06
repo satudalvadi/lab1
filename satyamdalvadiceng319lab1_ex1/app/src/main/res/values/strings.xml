@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">satyamdalvadiceng319lab1_ex1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_headline">LifeCycle Methods</string>
+    <string name="create">onCreate Executed</string>
+    <string name="start">onStart Executed</string>
+    <string name="stop">onStop Executed</string>
+    <string name="destroy">onDestroy Executed</string>
+    <string name="tag">Main activity:</string>
+    <string name="cycle.tag">life cycle</string>
+    <string name="AI_tittle">AIActivity</string>
+    <string name="VR_tittle">VRACTIVITY</string>
+
+</resources>

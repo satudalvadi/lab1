@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">satyamdalvadiceng319lab1_ex1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_headline">titre de l'application</string>
+    <string name="create">créer</string>
+    <string name="start">début</string>
+    <string name="stop">Arrêtez</string>
+    <string name="destroy">détruire</string>
+    <string name="tag">marque</string>
+    <string name="cycle.tag">life cycle</string>
+    <string name="AI_tittle">AIActivity</string>
+    <string name="VR_tittle">VRAcitivty</string>
+
+</resources>
